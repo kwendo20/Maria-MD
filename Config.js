@@ -37,7 +37,7 @@ global.autoread_status = false //auto view status/story
 
 
 //reply messages
-global.mess = {
+global.mess = {kwendo
     done: '*here you go!* \n\n*🎀 Maria Bot 🎀*\n\n*🧩 Bot link:* \nhttps://github.com/AYUSH-PANDEY023/Maria-MD\n',
     prem: '*This feature can be used by premium user only*',
     admin: '*This feature can be used by admin only*',
